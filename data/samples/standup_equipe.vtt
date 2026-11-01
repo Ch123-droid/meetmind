@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:03.000 --> 00:00:09.000
+<v Amine>Salut tout le monde, on fait le point rapide sur la livraison de l'API.</v>
+
+00:00:10.000 --> 00:00:18.500
+<v Nadia>Les tests d'intégration passent, mais il reste un bug sur l'authentification.</v>
+
+00:00:19.000 --> 00:00:27.000
+<v Amine>Nadia, tu peux corriger le bug d'authentification avant jeudi ?</v>
+
+00:00:28.000 --> 00:00:33.000
+<v Nadia>Oui, je vais le corriger d'ici jeudi.</v>
+
+00:00:34.000 --> 00:00:42.000
+<v Amine>Très bien. On décide de reporter la livraison au 12 novembre.</v>

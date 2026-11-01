@@ -1,0 +1,27 @@
+# Réunion de lancement du nouveau site de l'association — lundi 26 octobre 2026
+[00:00:05] Sara: Bonjour à tous, merci d'être là. L'objectif d'aujourd'hui est de préparer le lancement du nouveau site de l'association. On a trois points : le design, le calendrier technique et la communication.
+[00:00:28] Sara: On commence par le design. Leila, où en es-tu sur les maquettes ?
+[00:00:40] Leila: J'ai terminé la page d'accueil et la page des événements. Il me reste la page de contact et la version mobile.
+[00:01:05] Karim: Pour la version mobile, je propose qu'on parte sur une approche mobile first, ça simplifie le développement.
+[00:01:20] Sara: Oui, je suis d'accord. On part sur du mobile first, c'est décidé.
+[00:01:45] Leila: Du coup je vais finaliser la version mobile des maquettes pour vendredi.
+[00:02:10] Youssef: Et pour les couleurs, on garde la charte actuelle ou on la change ?
+[00:02:25] Sara: On garde la charte graphique actuelle, avec le bleu et l'orange, c'est validé.
+[00:03:00] Sara: Passons au calendrier technique. Karim, quel est le planning de développement ?
+[00:03:15] Karim: Je pense qu'il me faut trois semaines pour l'ensemble. Je peux commencer le développement dès que les maquettes sont prêtes.
+[00:03:40] Sara: D'accord. On fixe la mise en ligne au 20 novembre. C'est notre date cible.
+[00:04:05] Karim: Je vais configurer l'environnement de test et le serveur d'hébergement d'ici mercredi.
+[00:04:30] Sara: Très bien. Est-ce qu'on sait quel hébergeur on prend ? Je crois que le budget n'est pas encore validé.
+[00:04:50] Youssef: Je n'ai pas encore la réponse sur le budget d'hébergement, il faut en parler avec le trésorier.
+[00:05:10] Sara: Ok, donc le choix de l'hébergeur reste à trancher pour la prochaine réunion.
+[00:05:35] Sara: Youssef, tu peux contacter le trésorier pour confirmer le budget avant lundi prochain ? C'est urgent parce que ça bloque le choix de l'hébergeur.
+[00:06:00] Youssef: Oui, pas de problème, je m'en occupe.
+[00:06:20] Sara: Passons à la communication. Youssef, qu'est-ce que tu proposes ?
+[00:06:30] Youssef: Je propose de lancer une campagne sur les réseaux sociaux deux semaines avant la mise en ligne, avec des teasers.
+[00:06:55] Sara: Bonne idée. On retient la campagne de teasers sur les réseaux sociaux deux semaines avant la mise en ligne.
+[00:07:20] Youssef: Je vais rédiger le calendrier éditorial des publications et vous l'envoyer le 5 novembre.
+[00:07:50] Leila: Moi je préparerai les visuels des teasers, mais j'aurai besoin du calendrier éditorial avant. Disons la semaine prochaine pour les premiers visuels.
+[00:08:20] Sara: Parfait. Moi, je m'occupe d'envoyer le compte rendu à toute l'équipe demain.
+[00:08:40] Karim: Une dernière chose : est-ce qu'on prévoit une version en arabe du site ?
+[00:08:55] Sara: Bonne question, on ne sait pas encore. À voir avec le comité, on en reparle à la prochaine réunion.
+[00:09:15] Sara: Merci à tous, on se retrouve lundi prochain à 10 heures. Bonne journée !

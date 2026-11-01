@@ -1,0 +1,21 @@
+{
+  "date_reunion": "2026-10-26",
+  "decisions": [
+    {"decision": "Adopter une approche mobile first pour le site"},
+    {"decision": "Conserver la charte graphique actuelle (bleu et orange)"},
+    {"decision": "Fixer la mise en ligne du site au 20 novembre"},
+    {"decision": "Retenir une campagne de teasers sur les réseaux sociaux deux semaines avant la mise en ligne"}
+  ],
+  "actions": [
+    {"description": "Finaliser la version mobile des maquettes", "responsable": "Leila", "echeance": "2026-10-30"},
+    {"description": "Configurer l'environnement de test et le serveur d'hébergement", "responsable": "Karim", "echeance": "2026-10-28"},
+    {"description": "Contacter le trésorier pour confirmer le budget d'hébergement", "responsable": "Youssef", "echeance": "2026-11-02", "priorite": "haute"},
+    {"description": "Rédiger le calendrier éditorial des publications", "responsable": "Youssef", "echeance": "2026-11-05"},
+    {"description": "Préparer les visuels des teasers", "responsable": "Leila", "echeance": "2026-11-06"},
+    {"description": "Envoyer le compte rendu à toute l'équipe", "responsable": "Sara", "echeance": "2026-10-27"}
+  ],
+  "questions_ouvertes": [
+    "Choix de l'hébergeur et validation du budget",
+    "Version arabe du site"
+  ]
+}

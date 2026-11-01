@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.pytest_cache/
+outputs/*
+!outputs/.gitkeep
+*.wav
+*.mp3
+*.m4a
+node_modules/
+.next/
+frontend/.env.local
